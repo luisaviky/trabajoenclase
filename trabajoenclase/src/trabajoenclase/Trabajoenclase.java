@@ -15,7 +15,9 @@ public class Trabajoenclase {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+       suma s - new suma [];
+       s.setLocationRelativeTo (null);
+       s.setVisible (true);
     }
     
 }
